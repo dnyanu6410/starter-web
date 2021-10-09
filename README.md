@@ -8,6 +8,8 @@ Introduction
 ## Purpose
 
 Purpose
+##How to contribute
+please fork this respository and then issue  pull request for review
 
 ##Deploymet
 Deployment
